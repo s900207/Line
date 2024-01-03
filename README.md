@@ -4,9 +4,7 @@
 1.油價
 資料來源: GoodLife 油價預測 https://gas.goodlife.tw/
 
-2.
-天氣-新北市
-天氣-嘉義縣
+2.天氣-新北市、天氣-嘉義縣
 資料來源: 氣象資料開放平台 https://opendata.cwa.gov.tw/index
 一般天氣預報，今明36小時天氣預報 https://opendata.cwa.gov.tw/dist/opendata-swagger.html
 
